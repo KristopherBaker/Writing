@@ -2,18 +2,21 @@ Wondrous Item: Belt of Sheer Confidence
 
 Just a goofy item that could enable an oddball play style to the game.
 
-A belt that forces the user to stick out their chest and swing their arms as they walk in a confident gait. Everything they do or say is in full confidence, regardless of how wrong they may be proven.
+A belt that forces the user to stick out their chest and swing their arms as they walk with a confident gait. The wearer is in complete confidence of themselves in everything they do or say, regardless of how wrong they actually are.
 
-Their speed is halved due to the awkward, unfamiliar strutting, but EVERY roll they make gets a +1 confidence bonus. 
-Includes skill and knowledge checks, enabling the ability to roll all of the latter checks, despite potentially knowing nothing about any of the subjects. 
-However, they will take an additional -5 penalty for Knowledge checks, save for the ones they have put at least one rank in.
+Their speed is halved due to the awkward, unfamiliar strutting, but EVERY roll they make gets a +2 confidence bonus. 
+
+If the wearer made a roll that was successful their turn, for three turns in a row, the user must spend the entirety of their fourth turn to pose (d20). They do their BAB amount in poses (I.e. 6 BAB -> 2 rolls). Successful poses (15 or higher) increases their confidence bonus by 1 for their next turn. Failed poses (9 or lower) decrease it by 1 for their next turn. Middling poses do nothing. Instead of rolling a d20, the user may choose to roll a Perform check, with 20+ being successful and 20- being failed attempts. The wearer may choose to pose once per day regardless as a full round action, according to their BAB, for the same potential benefits.
+
+The confidence bonus includes skill and knowledge checks, enabling the ability to roll all of the latter checks, despite potentially knowing nothing about any of the subjects. Knowledge checks the user has at least one rank in will have a +5 confidence bonus.
+However, they will take a -5 confidence bonus for Knowledge checks they have no ranks in.
 Failing a Knowledge check will have the player insist they are right instead of just claiming they do not know the subject, possibly making it difficult to discern if they rolled high enough for a successful check.
-Any physical Skill checks do not take this penalty.
+Any physical Skill checks do not take this penalty, but posing before doing rolling it will require the wearer to take that action immediately afterwards.
 
-Melee attackers wearing this cannot attack with piercing, as the movement of their arms only allows bludgeoning or slashing. They may choose to roll a 1d3 to determine if the forced swinging helps their attack and damage rolls (1: -5, 2: normal, 3: +5).
-While throwing is possible, a d4 must be rolled to simulate timing the throw (1: flings it to the ground, 2: -5 penalty to attack roll, 3: normal throw, 4: +5 to attack roll). The +1 still applies.
+Melee attackers wearing this cannot attack with piercing, as the constant movement of their arms only allows bludgeoning or slashing. They may choose to roll a 1d3 to determine if the forced swinging helps their attack and damage rolls (1: -5, 2: normal, 3: +5).
+While throwing is possible, with difficulty, a d4 must be rolled to simulate timing the throw (1: flings it to the ground, 2: -5 penalty to attack roll, 3: normal throw, 4: +5 to attack roll). The confidence bonus still applies.
 Spellcasters wearing this cannot cast any spells that require a Somatic component, as they are forced to swing their arms instead of motioning them in order to cast spells.
 
 If worn in public, they might receive remarks of envy and annoyance from others. Whether that too is a magical effect or just genuine responses is up to interpretation.
-If attempting to barter, the wearer may choose to roll a 1d2 to determine if his confidence is enough to garner a discount (1: +15%, 2: -15%).
-Taking the belt off will have the user be unable to put it back on for 72 hours.
+If attempting to barter, the wearer may choose to roll a 1d2 to determine if their confidence is enough to woo the shopkeeper in giving a discount (1: +15%, 2: -15%).
+Taking the belt off will have the user be unable to put it back on for 3 days.
