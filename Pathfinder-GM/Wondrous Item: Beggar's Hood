@@ -1,0 +1,24 @@
+Wondrous Item - Beggar’s Hood
+
+An ordinary-looking hood that, when worn, disguises the wearer as a dirt-speckled beggar.
+When worn, the item adds a +5 to bluff checks that pertain to asking for the charitable good will of others, whether that involves asking for coin, items, or to do a good-natured task.
+Beings that fail to see past the bluff are compelled to do as the hood-wearer asks, so long as it pertains to charity. 
+Each ask is a separate Bluff check. 
+The bigger the ask, the higher the difficulty. 
+Each success on the same creature will increase subsequent Bluff DCs by 2.
+
+Examples, from the perspective of the target, with possible DC checks:
+-Giving a few silver pieces or lower will automatically succeed (0)
+-Giving food or water is an automatic success (0)
+-Giving information is an automatic success if it’s general knowledge (0), require a mild success if lesser known (7), moderate success if it’s limited (15), heavy success if it’s personal and somewhat sensitive (20), extreme success if it’s privileged (25).
+-Giving a few gold pieces will require mild success (7)
+-Giving a few platinum pieces will require decent success (15)
+-Giving a piece of clothing that is currently worn by them will require decent success, if it doesn’t impair their comfort in the weather or make them partially or wholly nude (16)
+-Giving a piece of clothing that WILL make them uncomfortable in the current weather, or partially or wholly nude, will require extreme success (25, 25, and 32, respectively)
+-Giving their weapon, if they wield one, will require heavy success (20)
+-Giving shelter for the night will require heavy success (20)
+-Giving a bed in their home to sleep for the night will require extreme success, with a +5 DC added per party member (25 for only self)
+
+Requesting anything valued beyond 100 gp will automatically fail. 
+Attempting to accrue that amount through several patrons will rile the ire of nearby pedestrians, disallowing any further Bluff attempts at that location for the next 1d4 + 1 days. 
+Attempting to ignore that will cause the local law to become involved.
